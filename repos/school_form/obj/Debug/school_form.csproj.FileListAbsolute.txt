@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\school_form\bin\Debug\school_form.exe.config
+C:\Users\valen\source\repos\school_form\bin\Debug\school_form.exe
+C:\Users\valen\source\repos\school_form\bin\Debug\school_form.pdb
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.Form1.resources
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.Properties.Resources.resources
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.exe
+C:\Users\valen\source\repos\school_form\obj\Debug\school_form.pdb

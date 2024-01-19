@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\greetingform\bin\Debug\greetingform.exe.config
+C:\Users\valen\source\repos\greetingform\bin\Debug\greetingform.exe
+C:\Users\valen\source\repos\greetingform\bin\Debug\greetingform.pdb
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.Form1.resources
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.Properties.Resources.resources
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.exe
+C:\Users\valen\source\repos\greetingform\obj\Debug\greetingform.pdb

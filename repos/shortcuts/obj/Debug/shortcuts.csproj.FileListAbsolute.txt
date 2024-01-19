@@ -1,0 +1,10 @@
+C:\Users\valen\source\repos\shortcuts\bin\Debug\shortcuts.exe.config
+C:\Users\valen\source\repos\shortcuts\bin\Debug\shortcuts.exe
+C:\Users\valen\source\repos\shortcuts\bin\Debug\shortcuts.pdb
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.csproj.AssemblyReference.cache
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.Form1.resources
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.Properties.Resources.resources
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.exe
+C:\Users\valen\source\repos\shortcuts\obj\Debug\shortcuts.pdb
